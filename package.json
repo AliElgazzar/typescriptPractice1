@@ -1,0 +1,33 @@
+{
+<<<<<<< HEAD
+  "name": "assign4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+=======
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch app.ts"
+>>>>>>> d3a2533ec1d48f03be27221548e67263bf3a858e
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+<<<<<<< HEAD
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^22.13.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+=======
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "tsx": "^4.19.2"
+>>>>>>> d3a2533ec1d48f03be27221548e67263bf3a858e
+  }
+}
